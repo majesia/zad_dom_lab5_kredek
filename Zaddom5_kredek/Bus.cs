@@ -15,11 +15,6 @@ namespace Zaddom5_kredek
             this.manufactureyear = manufactureyear;
             this.carmake = carmake;
         }
-
-        public void Delays()
-        {
-            Console.WriteLine("Przepraszamy za opoznienia");
-        }
     }
 
 }
