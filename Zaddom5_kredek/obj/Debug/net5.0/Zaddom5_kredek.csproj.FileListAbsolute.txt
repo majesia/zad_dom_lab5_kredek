@@ -1,0 +1,16 @@
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.csproj.AssemblyReference.cache
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.AssemblyInfoInputs.cache
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.AssemblyInfo.cs
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.csproj.CoreCompileInputs.cache
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\bin\Debug\net5.0\Zaddom5_kredek.exe
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\bin\Debug\net5.0\Zaddom5_kredek.deps.json
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\bin\Debug\net5.0\Zaddom5_kredek.runtimeconfig.json
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\bin\Debug\net5.0\Zaddom5_kredek.runtimeconfig.dev.json
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\bin\Debug\net5.0\Zaddom5_kredek.dll
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\bin\Debug\net5.0\ref\Zaddom5_kredek.dll
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\bin\Debug\net5.0\Zaddom5_kredek.pdb
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.dll
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\ref\Zaddom5_kredek.dll
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.pdb
+C:\Users\Pola2\source\repos\Zaddom5_kredek\Zaddom5_kredek\obj\Debug\net5.0\Zaddom5_kredek.genruntimeconfig.cache
